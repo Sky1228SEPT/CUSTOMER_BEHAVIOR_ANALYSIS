@@ -153,33 +153,6 @@ Data-Analytics-Project/
 
 ---
 
-## How to Run
-
-### Prerequisites
-
-* Python 3.x
-* PostgreSQL/MySQL/SQL Server
-* Power BI Desktop
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone <repository-link>
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd Data-Analytics-Project
-```
-
-3. Install required Python packages:
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
 
 ### Execution Steps
 
