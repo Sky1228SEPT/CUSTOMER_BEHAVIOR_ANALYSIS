@@ -1,8 +1,6 @@
 # CUSTOMER_BEHAVIOR_ANALYSIS
 Customer Behavior Analysis project using Python, MySQL, and Power BI. Includes data cleaning, exploratory data analysis (EDA), customer segmentation, SQL-based insights, and an interactive dashboard to uncover purchasing patterns, customer trends, and business opportunities for data-driven decision-making.
 
-# Data Analytics Project
-
 ## Overview
 
 This project demonstrates an end-to-end Data Analytics workflow, covering data extraction, exploration, cleaning, analysis, visualization, and reporting. The objective is to transform raw data into actionable business insights using industry-standard analytics tools and techniques.
